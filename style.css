@@ -1,0 +1,21 @@
+header{
+background-image: url(images/piroge.jpg);
+background-image: url(images/tete12.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 700px;
+}
+
+nav {
+	background-color: #422302; 
+}
+nav .row .col:hover{
+	background-color:#422302;
+}
+
+nav h3 {
+color:#ffffff; 	
+}
+img{
+	width: 100%;
+}
